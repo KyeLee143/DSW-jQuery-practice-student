@@ -1,1 +1,1 @@
-# DSW-jQuery-practice-student
+# jQuery
